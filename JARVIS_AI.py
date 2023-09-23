@@ -39,18 +39,18 @@ def wishMe():
     speak(month)
     speak(year)
     if hour>=6 and hour<12:
-        speak("Good Morning AK47!")
+        speak("Good Morning Captian!")
 
     elif hour>=12 and hour<18:
-        speak("Good Afternoon AK47!")
+        speak("Good Afternoon Captian!")
 
     elif hour>=18 and hour<24:
-        speak("Good Evening AK47!")
+        speak("Good Evening Captian!")
 
     else:
-        speak("Good Night AK47!")
+        speak("Good Night Captian!")
 
-    speak("Jarvis at your Service. Please tell me how can I help You ")
+    speak("Razor at your Service. Please tell me how can I help You ")
 #wishMe()
 def takeCommand():
 
@@ -77,8 +77,8 @@ def sendEmail(to, content):
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.ehlo()
     server.starttls()
-    server.login('Senderemail@gmail.com', 'Password')
-    server.sendmail('Senderemail@gmail.com', to, content)
+    server.login('sdd.founder@gmail.com', 'Allison1!@#$')
+    server.sendmail('sdd.founder@gmail.com', to, content)
     server.close()
 
 def lighton():
@@ -164,16 +164,16 @@ if __name__ == "__main__":
             speak(year)
 
 
-        elif 'email to harry' and 'send email' in query:
+        elif 'email to founder' and 'send email' in query:
             try:
                 speak("What should I say?")
                 content = takeCommand()
-                to = "ReciversEmail@gmail.com"    
+                to = "r.z.cheadleader@gmail.com"    
                 sendEmail(to, content)
                 speak("Email has been sent!")
             except Exception as e:
                 print(e)
-                speak("Sorry my friend . I am not able to send this email")      
+                speak("Sorry, sir . I am not able to send this email")      
 
         elif 'open code' in query:
             codePath = "C:\\Users\\user account\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"#ADD THE PATH OF THE PROGEM HERE
